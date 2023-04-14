@@ -16,7 +16,7 @@
 <div class="figure">
   <img src="img\首页.jpg" alt="首页" style="zoom:15%;" />
   <img src="img\课表.jpg" alt="课程表" style="zoom:15%;" />
-
+</div>
 ### 图书馆
 
 - [x] 座位预约
