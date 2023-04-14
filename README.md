@@ -13,10 +13,10 @@
 - [x] 校历
 - [ ] 蹭课助手
 
-<img src="img\首页.jpg" alt="首页" style="zoom:25%;" />
-
-<img src="img\课表.jpg" alt="课程表" style="zoom:25%;" />
-
+<div class="figure">
+  <img src="img\首页.jpg" alt="首页" style="zoom:15%;" />
+  <img src="img\课表.jpg" alt="课程表" style="zoom:15%;" />
+</div>
 ### 图书馆
 
 - [x] 座位预约
@@ -24,7 +24,7 @@
 - [x] 馆藏查询
 - [ ] 图书馆座位地图
 
-<img src="img\图书馆.jpg" alt="图书馆" style="zoom:25%;" />
+<img src="img\图书馆.jpg" alt="图书馆" style="zoom:15%;" />
 
 ### 学校公告
 
@@ -32,19 +32,19 @@
 - [x] 教务处公告
 - [x] 校长信箱
 
-<img src="img\公告.jpg" alt="学校公告" style="zoom:25%;" />
+<img src="img\公告.jpg" alt="学校公告" style="zoom:15%;" />
 
 ### 广场
 
 在这里与同学们分享任何事情
 
-<img src="img\广场.jpg" alt="广场" style="zoom:25%;" />
+<img src="img\广场.jpg" alt="广场" style="zoom:15%;" />
 
 ### 更多
 
 你还可以设置自己在济大盒子中的昵称、头像，并管理自己的账号
 
-<img src="img\我的.jpg" alt="更多" style="zoom:25%;" />
+<img src="img\我的.jpg" alt="更多" style="zoom:15%;" />
 
 
 
